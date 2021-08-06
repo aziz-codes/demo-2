@@ -1,5 +1,5 @@
 #Instructions
 
-##Project Root Folder
+##Project Root 
 
-index.html is the root file
+Local Development 
